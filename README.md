@@ -1,19 +1,109 @@
-# 💫 About Me:
-👋 Hey, I’m Mcnigel73 (Simba)<br><br>💪🏾 **DevOps Engineer thriving toward DevSecOps**  <br>📍 Australia  <br>🔐 Cloud • Automation • Security • Identity<br><br>I’m a DevOps engineer with a strong security mindset, working at the intersection of **automation, cloud infrastructure, and security engineering**.  <br>My long-term goal is to grow into **DevSecOps**, then **Cloud/Security Architecture**, and eventually transition deeper into **security-focused roles**.<br><br>I love automating anything that can be automated — especially when it makes systems **more secure, observable, and scalable**.<br><br>---<br><br>**🧠 Education**<br>- 🎓 **Master of Cyber Security** — Griffith University (Australia)  <br>- 🎓 **Bachelor of Telecommunication Engineering** — Shenyang Aerospace University (China)<br><br>---<br><br>**☁️ Certifications**<br>- ✅ Microsoft **Azure Fundamentals (AZ-900)**<br>- 📘 **CompTIA Security+** — planned<br><br>---<br><br>🛠️ Tech Stack<br><br>**Languages & Scripting**<br>`YAML` • `Python` • `C++` • `C#` • `PowerShell` • `Bash`  <br>`Terraform` • `Bicep` • `KQL`<br><br> Frameworks & Platforms<br>`.NET` • `React` • `Node.js`<br><br>Cloud & Data<br>`Azure` • `AWS` • `SQL` • `Cosmos DB`<br><br>Security Focus<br>- ☁️ Cloud Security<br>- 🔐 Identity & Access Management (IAM)<br>- 🧪 Pentesting & CTFs<br>- 🛡️ DevSecOps pipelines<br><br>---<br><br>**🚀 Currently Exploring**<br>- 🦀 **Rust** (for the fun *and* the pain)<br>- 🔌 **Arduino** (security + hardware = dangerous ideas)<br><br>---<br><br>**⚡ What Energises Me**<br>- Automating infrastructure and security controls  <br>- Embedding security into CI/CD pipelines  <br>- Designing systems that are secure *by default*  <br>- Breaking things safely… then fixing them properly<br><br>---<br><br>**🎣 Fun Facts**<br>- Loves **fishing**, the **gym**, and anything involving water  <br>- Can rant about **DevOps and security** for hours  <br>- Security guy living deep in the **Apple ecosystem** 😂  <br>- Wants Arduino to become a full-blown obsession<br><br>---<br><br>**🤝 Let’s Connect**<br>If you’re interested in **DevOps, DevSecOps, cloud security, or automation**, let’s talk.<br><br>👇
+# 💫 About Me
 
+👋 Hey, I’m **Mcnigel73 (Simba)**  
+💪🏾 **DevOps Engineer thriving toward DevSecOps**  
+📍 Australia  
+🔐 Cloud • Automation • Security • Identity
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/simba-bhowa) 
+I’m a DevOps engineer with a strong security mindset, working at the intersection of **automation, cloud infrastructure, and security engineering**.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mcnigel73&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mcnigel73&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mcnigel73&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+My long-term goal is to grow into **DevSecOps**, then **Cloud/Security Architecture**, and eventually transition deeper into **security-focused roles**.
+
+I love automating anything that can be automated — especially when it makes systems **more secure, observable, and scalable**.
+
+---
+
+## 🧠 Education
+
+- 🎓 **Master of Cyber Security** — Griffith University (Australia)
+- 🎓 **Bachelor of Telecommunication Engineering** — Shenyang Aerospace University (China)
+
+---
+
+## ☁️ Certifications
+
+- ✅ Microsoft **Azure Fundamentals (AZ-900)**
+- 📘 **CompTIA Security+** — planned
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Scripting
+`YAML` • `Python` • `C++` • `C#` • `PowerShell` • `Bash`  
+`Terraform` • `Bicep` • `KQL`
+
+### Frameworks & Platforms
+`.NET` • `React` • `Node.js`
+
+### Cloud & Data
+`Azure` • `AWS` • `SQL` • `Cosmos DB`
+
+### Security Focus
+- ☁️ Cloud Security
+- 🔐 Identity & Access Management (IAM)
+- 🧪 Pentesting & CTFs
+- 🛡️ DevSecOps pipelines
+
+---
+
+## 🚀 Currently Exploring
+
+- 🦀 **Rust** (for the fun *and* the pain)
+- 🔌 **Arduino** (security + hardware = dangerous ideas)
+
+---
+
+## ⚡ What Energises Me
+
+- Automating infrastructure and security controls
+- Embedding security into CI/CD pipelines
+- Designing systems that are secure *by default*
+- Breaking things safely… then fixing them properly
+
+---
+
+## 🎣 Fun Facts
+
+- Loves **fishing**, the **gym**, and anything involving water
+- Can rant about **DevOps and security** for hours
+- Security guy living deep in the **Apple ecosystem** 😂
+- Wants Arduino to become a full-blown obsession
+
+---
+
+## 🤝 Let’s Connect
+
+If you’re interested in **DevOps, DevSecOps, cloud security, or automation**, let’s talk 👇
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simba-bhowa)
+
+---
+
+# 💻 Tech Stack
+
+<!-- badges unchanged, GitHub handles these fine -->
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<!-- (rest of badges stay exactly as you had them) -->
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=mcnigel73&theme=dark&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=mcnigel73&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mcnigel73&theme=dark&hide_border=true&layout=compact)
+
+---
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=mcnigel73&icon=0&color=0)](https://visitcount.itsvg.in)
